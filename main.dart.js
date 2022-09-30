@@ -33092,7 +33092,7 @@
     var $async$am4=A.w(function(e,f){if(e===1)return A.r(f,r)
     while(true)switch(s){case 0:p=t.N
     s=3
-    return A.y(A.b6r(A.cV(B.bA.h(0,A.rk()).a,0,null),A.Y(["action","parse","format","json","formatversion","2","page",d,"prop","text|revid|displaytitle|limitreportdata|properties","disableeditsection","1","disabletoc","1","curtimestamp","1"],p,p),A.Y(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET,POST"],p,p)),$async$am4)
+    return A.y(A.b6r(A.cV(B.bA.h(0,A.rk()).a,0,null),A.Y(["action","parse","format","json","formatversion","2","page",d,"prop","text|revid|displaytitle|limitreportdata|properties","disableeditsection","1","disabletoc","1","curtimestamp","1","origin","*"],p,p),A.Y(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET,POST"],p,p)),$async$am4)
     case 3:o=f
     q=A.bct(a,B.bb.Do(0,A.aXU(J.aA(A.aXl(o.e).c.a,"charset")).dY(0,o.w),null),c)
     s=1
@@ -33103,7 +33103,7 @@
     var $async$Gf=A.w(function(e,f){if(e===1)return A.r(f,r)
     while(true)switch(s){case 0:p=t.N
     s=3
-    return A.y(A.b6r(A.cV(B.bA.h(0,A.rk()).a,0,null),A.Y(["action","query","format","json","formatversion","2","gpssearch",d,"gpsoffset",B.e.j(c),"gpsnamespace",B.e.j(b),"generator","prefixsearch"],p,p),A.Y(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET,POST"],p,p)),$async$Gf)
+    return A.y(A.b6r(A.cV(B.bA.h(0,A.rk()).a,0,null),A.Y(["action","query","format","json","formatversion","2","gpssearch",d,"gpsoffset",B.e.j(c),"gpsnamespace",B.e.j(b),"generator","prefixsearch","origin","*"],p,p),A.Y(["Accept","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET,POST"],p,p)),$async$Gf)
     case 3:o=f
     q=A.bcs(B.bb.Do(0,A.aXU(J.aA(A.aXl(o.e).c.a,"charset")).dY(0,o.w),null))
     s=1
