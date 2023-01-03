@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5b38e5d99d5bb37880ed3976997d0f01",
+  "assets/AssetManifest.json": "3a91d40514972c2d58c933df80e9b645",
 "assets/assets/fonts/NotoKufiArabic-Regular.ttf": "3ce2f0496fbe15c430b8b30257b1f423",
 "assets/assets/fonts/NotoMusic-Regular.ttf": "2e53791c2c627baf8f733990f57fff79",
 "assets/assets/fonts/NotoNaskhArabic-Regular.ttf": "fa716e02c0bf6d2a6618334ece74f727",
@@ -192,30 +192,10 @@ const RESOURCES = {
 "assets/assets/fonts/Raleway-Regular.ttf": "20d41940068e45b114d32b48d684ef39",
 "assets/assets/svg/definition_search_none.svg": "e1e95749f9b962c739ed6406c9d40158",
 "assets/assets/svg/definition_search_type.svg": "133734cf02a834b171747157f62d59be",
-"assets/FontManifest.json": "dd549b58df60d05bdc56e9613ccb4e23",
+"assets/FontManifest.json": "8cbadf958c677654b8983c200b1953d2",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "d575bbf4ab99e52aa771b839859816ba",
+"assets/NOTICES": "a36393c7961f8f298f83eafa94626492",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf": "a9c8e437146ef63fcd6fae7cf65ca859",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Regular.ttf": "7ec92adfa4fe03eb8e9bfb60813df1fa",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Bold.ttf": "46b41c4de7a936d099575185a94855c4",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Fraktur-Regular.ttf": "dede6f2c7dad4402fa205644391b3a94",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Bold.ttf": "9eef86c1f9efa78ab93d41a0551948f7",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-BoldItalic.ttf": "e3c361ea8d1c215805439ce0941a1c8d",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Italic.ttf": "ac3b1882325add4f148f05db8cafd401",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Regular.ttf": "5a5766c715ee765aa1398997643f1589",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-BoldItalic.ttf": "946a26954ab7fbd7ea78df07795a6cbc",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-Italic.ttf": "a7732ecb5840a15be39e1eda377bc21d",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Bold.ttf": "ad0a28f28f736cf4c121bcb0e719b88a",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Italic.ttf": "d89b80e7bdd57d238eeaa80ed9a1013a",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_SansSerif-Regular.ttf": "b5f967ed9e4933f1c3165a12fe3436df",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size1-Regular.ttf": "1e6a3368d660edc3a2fbbe72edfeaa85",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size2-Regular.ttf": "959972785387fe35f7d47dbfb0385bc4",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size3-Regular.ttf": "e87212c26bb86c21eb028aba2ac53ec3",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size4-Regular.ttf": "85554307b465da7eb785fd3ce52ad282",
-"assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Typewriter-Regular.ttf": "87f56927f1ba726ce0591955c8b3b42d",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "e9f2f143310604845f8aa26c42ad5f55",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/shaders/ink_sparkle.frag": "36f0824f284e284cb057c51dbef78840",
@@ -229,11 +209,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "548f1c9d7e87fa9d57e8445154f44b12",
 "icons/Icon-maskable-192.png": "03b5fe3db54744605368efa003e86b79",
 "icons/Icon-maskable-512.png": "548f1c9d7e87fa9d57e8445154f44b12",
-"index.html": "a9f05bda19792d9e2e69d3772a34cb50",
-"/": "a9f05bda19792d9e2e69d3772a34cb50",
-"main.dart.js": "d32d30ab442f7713d22819f63224f211",
-"manifest.json": "8a9b9dc16452322a874fba5909e4326c",
-"version.json": "74461dd4270a36caa4a89460cd54138b"
+"index.html": "637a1faa1ba7bbfe36422c9edc0c52e3",
+"/": "637a1faa1ba7bbfe36422c9edc0c52e3",
+"main.dart.js": "67c8ef11b54b0bde705f148b14b8ef02",
+"manifest.json": "5396e20f0a2a91a5b7a27bd387aef664",
+"version.json": "8095870d9a4391a3ceb180005c529524"
 };
 
 // The application shell files that are downloaded before a service worker can
